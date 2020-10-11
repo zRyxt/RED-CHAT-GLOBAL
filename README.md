@@ -14,5 +14,5 @@ Regla 10: El staff del bot tiene derecho blacklistearte si haz hecho algo prohib
 AVISO: Cualquier queja, reporte, apelacion falsa, intento de baypass del bot, video hablando de el bot mal aposta o copia de el bot sera warneado o baneado y reportado al trust & safety de discord.
 Atentamente: El staff del chat global.
 
-**Demostracion:**
+
 ![Demostracion](https://i.imgur.com/gqaCOlZ.png)
