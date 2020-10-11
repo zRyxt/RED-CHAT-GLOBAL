@@ -15,4 +15,4 @@ AVISO: Cualquier queja, reporte, apelacion falsa, intento de baypass del bot, vi
 Atentamente: El staff del chat global.
 
 **Demostracion:**
-![Demostracion](https://imgur.com/1QTo8r9)
+![Demostracion](https://i.imgur.com/gqaCOlZ.png)
